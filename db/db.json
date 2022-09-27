@@ -1,9 +1,12 @@
 {
   "notes": [
     {
-      "id":0,
       "title": "Test Title",
       "text": "Test text"
+    },
+    {
+      "title": "test note #2",
+      "text": "This is a test case for demonstration of project"
     }
   ]
 }
