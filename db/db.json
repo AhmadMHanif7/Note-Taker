@@ -1,24 +1,9 @@
 {
   "notes": [
     {
+      "id":0,
       "title": "Test Title",
       "text": "Test text"
-    },
-    {
-      "title": "Insomnia test",
-      "text": "Insomina text test"
-    },
-    {
-      "title": "Insomnia test  1",
-      "text": "Insomina text test 1"
-    },
-    {
-      "title": "Insomnia test  4",
-      "text": "Insomina text test 1"
-    },
-    {
-      "title": "Insomnia test  5",
-      "text": "Insomina text test 2"
     }
   ]
 }

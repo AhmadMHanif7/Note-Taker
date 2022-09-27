@@ -20,7 +20,8 @@ router.post('/notes', (req, res) => {
 
 router.delete('/notes/:id', (req,res) => {
     const note = notes[req.params.id];
-    notes.splice(req.params.id, 1);
+    console.log(req.params.id);
+    notes.pop(note);
     res.json(note);
 });
 
